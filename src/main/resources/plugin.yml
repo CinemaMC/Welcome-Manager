@@ -1,0 +1,4 @@
+name: WelcomeManager
+version: '${project.version}'
+main: me.cinemamc.welcomemanager.WelcomeManager
+api-version: 1.19
